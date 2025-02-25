@@ -6,7 +6,7 @@
  
 ***
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoSobrera20&bg_color=000000&color=670B71&line=3D0843&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaniLimaa&bg_color=000000&color=670B71&line=3D0843&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## Conhecimentos:
  
 ![HTML5](https://img.shields.io/badge/HTML5-321435?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
@@ -27,12 +27,12 @@
  
 ## Status:
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=GustavoSobrera20&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSobrera20&layout=compact&langs_count=7&theme=synthwave" alt="Top Languages"/></div>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=DaniLimaa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniLimaa&layout=compact&langs_count=7&theme=synthwave" alt="Top Languages"/></div>
  
 <center>
 <picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoSobrera20/GustavoSobrera20/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoSobrera20/GustavoSobrera20/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoSobrera20/GustavoSobrera20/output/github-contribution-grid-snake.svg"> </picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaniLimaa/DaniLimaa/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaniLimaa/DaniLimaa/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DaniLimaa/DaniLimaa/output/github-contribution-grid-snake.svg"> </picture>
 </center>
  
 ## Estudando no Momento:
