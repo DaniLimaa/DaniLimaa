@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=670B71&height=120&section-header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#ADD8E6&height=120&section-header"/>
  
 <div align="center"
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Proggy+Fonts&weight=200&size=23&pause=1000&color=670B71&center=true&vCenter=true&width=500&lines=HELLO+my+name+is+Daniel+Camargo;i'am+17+years+old;And+i'am+From+brazil" alt="Typing SVG" /></a></div>
@@ -41,7 +41,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-321435?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
  
 <p align="centre"><b>Visitors Count</b></p> 
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGustavoSobrera20&s=50&c=670B71&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDaniLimaa&s=50&c=670B71&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
  
 
