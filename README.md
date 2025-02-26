@@ -9,8 +9,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaniLimaa&bg_color=000000&color=ADD8E6&line=ADD8E6&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## Conhecimentos:
  
-![HTML5](https://img.shields.io/badge/HTML5-ADD8E6?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-ADD8E6?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-ADD8E6?style=for-the-badge&logo=html5&logoColor=gray)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-ADD8E6?style=for-the-badge&logo=JAVASCRIPT&logoColor=gray)&nbsp;
 <img align="right" height="110" alt="coding-time" src="https://media.tenor.com/mcpNuaDanYwAAAAj/duck-ducky.gif">
 
 
