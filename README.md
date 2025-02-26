@@ -11,7 +11,7 @@
  
 ![HTML5](https://img.shields.io/badge/HTML5-ADD8E6?style=for-the-badge&logo=html5&logoColor=gray)&nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-ADD8E6?style=for-the-badge&logo=JAVASCRIPT&logoColor=gray)&nbsp;
-<img align="right" height="110" alt="coding-time" src="https://media.tenor.com/mcpNuaDanYwAAAAj/duck-ducky.gif">
+<img align="right" height="90" alt="coding-time" src="https://media.tenor.com/oeY8e8nh6d0AAAAi/shiny-wartortle-pokemon.gif">
 
 
 ## Ferramentas:
