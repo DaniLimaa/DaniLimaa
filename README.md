@@ -38,8 +38,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DaniLimaa&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats" />
-</div>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=DaniLimaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniLimaa&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/></div>
 
 <br>
 
@@ -53,9 +53,6 @@
 
  
 ## Status:
-<div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=DaniLimaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniLimaa&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/></div>
  
 <center>
 <picture> 
