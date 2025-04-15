@@ -47,8 +47,9 @@
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=DaniLimaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniLimaa&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/></div>
 
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDaniLimaa&s=50&c=ADD8E6&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDaniLimaa&s=50&c=ADD8E6&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+
 
 <br>
  
