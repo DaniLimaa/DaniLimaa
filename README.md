@@ -38,7 +38,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DaniLimaa&locale=pt-br&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=DaniLimaa&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats" />
 </div>
 
 <br>
