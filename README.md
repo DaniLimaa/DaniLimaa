@@ -38,15 +38,14 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=DaniLimaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniLimaa&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/></div>
+  <img src="https://streak-stats.demolab.com?username=DaniLimaa&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats" />
+</div>
 
 <br>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DaniLimaa&show_icons=true&bg_color=000000&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniLimaa&layout=compact&langs_count=7&bg_color=000000&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6" alt="Top Languages"/>
-</div>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=DaniLimaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniLimaa&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/></div>
 
 <br>
 
