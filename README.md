@@ -6,23 +6,51 @@
 ***
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaniLimaa&bg_color=000000&color=ADD8E6&line=ADD8E6&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-## Conhecimentos:
- 
-![HTML5](https://img.shields.io/badge/HTML5-ADD8E6?style=for-the-badge&logo=html5&logoColor=gray)&nbsp;
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-ADD8E6?style=for-the-badge&logo=JAVASCRIPT&logoColor=gray)&nbsp;
-<img align="right" height="90" alt="coding-time" src="https://media.tenor.com/oeY8e8nh6d0AAAAi/shiny-wartortle-pokemon.gif">
+
+## 🚀 Tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql" alt="HTML, CSS, JavaScript, MySQL" />
+
+</div>
+
+<br>
+
+## 🧰 Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,github,git,bootstrap,arduino" alt="VS Code, Visual Studio, Figma, GitHub, Git, Bootstrap, Arduino" />
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
+
+</div>
+
+<br>
+
+## 📘 Atualmente estudando
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+ <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+</div>
+
+<br>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ictor226&locale=pt-br&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ictor226&show_icons=true&bg_color=000000&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ictor226&layout=compact&langs_count=7&bg_color=000000&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6" alt="Top Languages"/>
+</div>
+
+<br>
 
 
-## Ferramentas:
- 
-![GITHUB](https://img.shields.io/badge/GITHUB-ADD8E6?style=for-the-badge&logo=github&logoColor=gray)&nbsp;
-![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-ADD8E6?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=gray)&nbsp;
-![CANVA](https://img.shields.io/badge/CANVA-ADD8E6.svg?&style=for-the-badge&logo=Canva&logoColor=gray)&nbsp;
-![FIGMA](https://img.shields.io/badge/FIGMA-ADD8E6?style=for-the-badge&logo=figma&logoColor=gray)&nbsp;
- 
- 
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-ADD8E6?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=gray)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ADD8E6?style=for-the-badge&logo=visual-studio&logoColor=1E90FF&labelColor=gray)&nbsp;
  
 ## Status:
 <div align="center">
