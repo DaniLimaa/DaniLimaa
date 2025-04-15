@@ -19,7 +19,7 @@
 ## 🧰 Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,github,git,bootstrap,arduino" alt="VS Code, Visual Studio, Figma, GitHub, Git, Bootstrap, Arduino" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,github,git,bootstrap" alt="VS Code, Visual Studio, Figma, GitHub, Git, Bootstrap" />
   <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
 
 </div>
@@ -30,7 +30,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
- <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
 </div>
 
 <br>
