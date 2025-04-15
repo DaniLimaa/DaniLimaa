@@ -48,20 +48,6 @@
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniLimaa&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/></div>
 
 <br>
-
-
- 
-## Status:
- 
-<center>
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaniLimaa/DaniLimaa/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaniLimaa/DaniLimaa/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DaniLimaa/DaniLimaa/output/github-contribution-grid-snake.svg"> </picture>
-</center>
- 
-## Estudando no Momento:
-![CSS](https://img.shields.io/badge/CSS3-ADD8E6?style=for-the-badge&logo=css3&logoColor=gray)&nbsp;
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-ADD8E6?style=for-the-badge&logo=JAVASCRIPT&logoColor=gray)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-ADD8E6?style=for-the-badge&logo=html5&logoColor=gray)&nbsp;
  
 <p align="centre"><b>Visitors Count</b></p> 
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDaniLimaa&s=50&c=ADD8E6&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
