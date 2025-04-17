@@ -2,7 +2,13 @@
  
 <div align="center"
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Proggy+Fonts&weight=200&size=23&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=HELLO+my+name+is+Daniel+Camargo;i'am+17+years+old;And+i'am+From+brazil" alt="Typing SVG" /></a></div>
- 
+
+***
+
+<div align="center">
+  <img src="https://github.com/DaniLimaa/DaniLimaa/blob/main/tomioka-gif.gif?raw=true" width="100%" height="auto" alt="GIF do perfil">
+</div>
+
 ***
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaniLimaa&bg_color=000000&color=00FFFF&line=fff&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
